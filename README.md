@@ -17,7 +17,7 @@ https://github.com/juaaaanjo/melitest.git
 
 2.Install dependencies
 npm install
-
 (for iOS execute pod install in iOS root folder)
+
 3. Start the development
 npm start
